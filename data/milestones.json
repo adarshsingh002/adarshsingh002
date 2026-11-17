@@ -1,0 +1,96 @@
+{
+  "profile": {
+    "name": "Adarsh Kumar Singh",
+    "handle": "adarshsingh002",
+    "leetcode_handle": "Adarsh_002",
+    "codeforces_handle": "Adarsh_002",
+    "email": "2k6.adi@gmail.com",
+    "education": {
+      "degree": "B.E. in Information Science & Engineering",
+      "institution": "M.S. Ramaiah Institute of Technology (MSRIT), Bengaluru",
+      "cgpa": "9.46"
+    }
+  },
+  "competitive_programming": {
+    "leetcode": {
+      "rating": 1818,
+      "badge": "Knight",
+      "ranking": "Top 5%",
+      "global_rank": "914 / 45,000+ (Weekly Contest 512)",
+      "total_solved": 855,
+      "breakdown": {
+        "easy": 320,
+        "medium": 440,
+        "hard": 95
+      },
+      "rating_history": [
+        {"contest": "Base", "rating": 1480},
+        {"contest": "WC 480", "rating": 1540},
+        {"contest": "BW 120", "rating": 1615},
+        {"contest": "WC 495", "rating": 1690},
+        {"contest": "WC 505", "rating": 1745},
+        {"contest": "WC 512", "rating": 1818}
+      ]
+    },
+    "codeforces": {
+      "rating": 1285,
+      "rank": "Pupil",
+      "max_rating": 1340
+    }
+  },
+  "hackathons": [
+    {
+      "name": "Fidelity Investments India Hackathon 2026",
+      "organizer": "Fidelity Investments",
+      "placement": "National Finalist (Top 12 / 300+ Teams)",
+      "domain": "Quant Systems & Financial Intelligence"
+    },
+    {
+      "name": "NER Tech Hackathon 2.0",
+      "organizer": "NERCOMS",
+      "placement": "Top 60 / 2,000+ Entries",
+      "domain": "High-Scale Distributed Engineering"
+    },
+    {
+      "name": "Meta PyTorch OpenEnv Hackathon",
+      "organizer": "Meta / PyTorch",
+      "placement": "Recognized Contributor",
+      "domain": "Multimodal Incident Triage & RL Envs"
+    },
+    {
+      "name": "CodeCrafter 2026",
+      "organizer": "MSRIT",
+      "placement": "Grand Finalist",
+      "domain": "Full-Stack Microservices Architecture"
+    },
+    {
+      "name": "24-Hour Whackiest Flagship Hackathon",
+      "organizer": "MSRIT",
+      "placement": "Top 25 Placement",
+      "domain": "Real-Time Resilient Systems"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Retrieval Augmented Generation (RAG) Specialization",
+      "issuer": "DeepLearning.AI",
+      "year": "2024"
+    },
+    {
+      "title": "Machine Learning Specialization",
+      "issuer": "DeepLearning.AI & Stanford Online (Andrew Ng)",
+      "year": "2024"
+    },
+    {
+      "title": "AI & Machine Learning Workshop",
+      "issuer": "Indian Institute of Science (IISc), Bengaluru",
+      "year": "2024"
+    },
+    {
+      "title": "Data Structures & Algorithms + Python Masterclass",
+      "issuer": "Udemy",
+      "year": "2023"
+    }
+  ]
+}
+
