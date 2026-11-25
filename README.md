@@ -283,7 +283,7 @@ flowchart LR
 
 | Platform | Rating / Division | Global Placement | Total Volume |
 | :--- | :--- | :--- | :--- |
-| **LeetCode** (`Adarsh_002`) | <kbd>Knight: 1878</kbd> | **914 / 45,000+ (Weekly Contest 512)** | **775+ Solved** |
+| **LeetCode** (`Adarsh_002`) | <kbd>Knight: 1878</kbd> | **914 / 45,000+ (Weekly Contest 512)** | **776+ Solved** |
 | **Codeforces** (`Adarsh_002`) | <kbd>Pupil: 1285</kbd> | **Max Rating: 1340** | Active Competitor |
 
 </details>
